@@ -1,0 +1,13 @@
+.jumbotron {
+    background-image: url(https://picsum.photos/800);
+}
+
+.current_favorites {
+    text-align: center;
+
+}
+
+.card {
+   display: inline-block;
+   margin: 1%;
+}
